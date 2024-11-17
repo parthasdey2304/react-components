@@ -80,7 +80,7 @@ Usage
 Once the development server is running, open your browser and go to:
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 You can now explore the reusable components and test their functionality.
